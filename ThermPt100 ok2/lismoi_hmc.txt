@@ -1,0 +1,6 @@
+S'inspire de ThermK, pour sonde PT100
+voir calculs dans calculs.xls
+
+CC1101
+si4463 transceiver firmware
+LoRa SX1278 
