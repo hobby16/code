@@ -24,7 +24,7 @@ NTC 10k for cold compensation on chan B, gain=32
  */
 
 
-/*
+/* table used for segmented linear interpollation
 R	T°C
 10	-219.415
 20	-196.509
