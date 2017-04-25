@@ -13,9 +13,9 @@ float VoieA, VoieB;
 #define CHAN_Ax64 3
 #define CHAN_Bx32 2
 
-//--- utilise float au lieu de #define pour permettre étalonnage
-float Offset_A=0; //valeur trouvée en courcircuitant A+ et A-
-float Offset_B=0;  //valeur trouvée en courcircuitant B+ et B-
+//--- use float vars instead of #define to allow calibration (further feature)
+float Offset_A=0; //short-circuit A+ et A- to mesure offset
+float Offset_B=0;  //short-circuit B+ et B- to mesure offset
 
 
 /*
