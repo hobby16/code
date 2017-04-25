@@ -19,8 +19,8 @@ float Offset_B=0;  //short-circuit B+ et B- to mesure offset
 
 
 /*
-hmc: thermocouple K sur voie A, gain =128
- CTN 10k pour compensation soudure froide sur voie B, gain =32
+hmc: thermocouple K on chan A, gain =128
+NTC 10k for cold compensation on chan B, gain=32
  */
 
 
