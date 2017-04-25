@@ -1,0 +1,4 @@
+sketch testé ok, avec afficheur LCD 2x16 
+T jonction froide et T therm K vérifé ok, aucun étalonnage nécessaire !
+voir schéma câblage ctn et valeurs composants directement dans source code ino
+à ajouter, mode étalonnage du gain pour ctn et pour thermK

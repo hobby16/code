@@ -1,0 +1,2 @@
+thermocouple K
+routines de très grande précision (0.01°C), testées et validées
